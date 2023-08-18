@@ -1,0 +1,20 @@
+1. React
+2. Redux
+3. JWT 
+4. Express JS 
+5. MongoDB
+--------------------------------------------------------------
+Process: 
+1. Data Model 
+2. Express JS REST API 
+3. Front-end
+---------------------------------------------------------------
+==> Data Model:
+Goal Data:
+title, description, status, email, createdDate
+---------------------------------------------------------------
+User Data:
+email, firstName, lastName, mobile, password, photo, createdDate
+---------------------------------------------------------------
+Forget Password:
+========================================...
